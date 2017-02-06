@@ -1,0 +1,12 @@
+{
+  "name":"chatrooms",
+  "version": "0.0.1",
+  "description": "chat Server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io":"~0.9.6",
+    "mime":"~1.2.7"
+  }
+}
